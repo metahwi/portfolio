@@ -23,7 +23,7 @@ const techStack = [
 
 const content = {
   ko: {
-    back: "← 돌아가기",
+    back: "돌아가기",
     title: "Swipe Survey",
     oneliner: "틴더식 스와이프 보상형 설문 플랫폼",
     problem: "문제",
@@ -47,7 +47,7 @@ const content = {
     metrics: "주요 수치",
   },
   en: {
-    back: "← Back",
+    back: "Back",
     title: "Swipe Survey",
     oneliner: "Tinder-style reward-based survey platform",
     problem: "Problem",

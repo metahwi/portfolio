@@ -16,7 +16,7 @@ const techStack = [
 
 const content = {
   ko: {
-    back: "← 돌아가기",
+    back: "돌아가기",
     title: "BioTrack",
     badge: "Building",
     oneliner: "바이오제약 GMP 일탈/CAPA 추적 + AI 근본원인 분석",
@@ -31,7 +31,7 @@ const content = {
     screenshots: "스크린샷",
   },
   en: {
-    back: "← Back",
+    back: "Back",
     title: "BioTrack",
     badge: "Building",
     oneliner: "Biopharma GMP deviation/CAPA tracking with AI root cause analysis",

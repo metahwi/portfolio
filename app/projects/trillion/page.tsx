@@ -24,7 +24,7 @@ const techStack = [
 
 const content = {
   ko: {
-    back: "← 돌아가기",
+    back: "돌아가기",
     title: "Trillion",
     oneliner: "AI 기반 한국 주식 자동투자 시스템",
     problem: "문제",
@@ -39,7 +39,7 @@ const content = {
     screenshots: "스크린샷",
   },
   en: {
-    back: "← Back",
+    back: "Back",
     title: "Trillion",
     oneliner: "AI-powered Korean stock auto-investment system",
     problem: "Problem",

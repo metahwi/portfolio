@@ -29,7 +29,7 @@ function PhoneFrame({ src, alt, caption }: { src: string; alt: string; caption: 
 
 const content = {
   ko: {
-    back: "← 돌아가기",
+    back: "돌아가기",
     title: "AVA",
     oneliner: "소상공인을 위한 모바일 재무관리 앱",
     liveDemo: "라이브 데모",
@@ -61,7 +61,7 @@ const content = {
     screenshots: "스크린샷",
   },
   en: {
-    back: "← Back",
+    back: "Back",
     title: "AVA",
     oneliner: "Mobile-first bookkeeping app for Korean solo business owners",
     liveDemo: "Live Demo",
