@@ -1,12 +1,12 @@
 export const ko = {
   categories: ["전체", "Finance", "Community", "Biotech", "Education", "Utility"],
   name: "이재휘",
-  tagline: "AI Convergence 기획자 · Manager @ Ducogen",
+  tagline: "AI Product Manager · Ducogen",
   subtitle: "Computer Science / Economics @ NYU",
   nav: { about: "About", experience: "Experience", projects: "Projects", credentials: "Credentials", contact: "Contact" },
   about: [
-    "안녕하세요, 이재휘입니다. 솔직히 말하면 이 포트폴리오도 AI한테 많이 도움받았어요. 코딩도, 글도, 배포도. 근데 그게 제 능력이라고 생각합니다 — AI를 잘 부리는 것도 실력이니까요.",
-    "NYU에서 CS랑 경제학을 전공했고, 삼성·AWS·스타트업을 거쳤습니다. 기획서 쓰는 것보다 직접 만드는 게 빠른 사람이에요. 요즘은 '이걸 왜 아직도 사람이 하지?'라는 질문을 달고 삽니다.",
+    "안녕하세요, 이재휘입니다. 솔직히 말하면 이 포트폴리오도 AI 도움을 많이 받았어요. 근데 저는 그게 당연한 시대라고 생각합니다 — AI로 생산성을 극대화하는 방법을 아는 것, 그게 지금 가장 중요한 역량이니까요.",
+    "NYU에서 CS랑 경제학을 전공했고, 삼성·AWS·북미 스타트업을 거쳤습니다. 기획서를 넘기기보다 직접 만드는 게 빠른 사람이에요. 요즘은 '이걸 왜 아직도 사람이 하지?'라는 질문을 달고 삽니다.",
     "제가 AI보다 확실히 잘하는 건 그림 그리기입니다. 관심 있으시면 제 아트 블로그도 구경 오세요 →",
   ],
   experience: [
@@ -14,15 +14,15 @@ export const ko = {
       company: "듀코젠",
       role: "AI Convergence 기획자",
       period: "2025.10 — 현재",
-      description: "5억원+ AI 교육사업 기획·운영 (B2G/B2B/B2C). 서울시 청년취업사관학교, 경기콘텐츠진흥원 협약. 교육생 100명+. Microsoft 파트너사 자격증 플랫폼 사업 개발·운영. 자체 교육 서비스 플랫폼 구축. 인턴 7명 PM.",
+      description: "다중 정부지원 AI 교육사업 기획·운영 (B2G/B2B/B2C). 서울시·경기콘텐츠진흥원 협약 체결. 교육생 100명+. Microsoft 파트너사 자격증 플랫폼 개발·운영. 자체 교육 서비스 플랫폼 구축. 인턴 7명 PM.",
       tags: ["AI", "PM", "No-code", "Marketing"],
     },
     {
       company: "Tempo Labs",
       role: "AI Engineer Intern",
       period: "2025.02 — 2025.05",
-      description: "AI 인프라 설계 + ML 파이프라인 구축. 프로덕션 레벨 시스템 아키텍처 경험.",
-      tags: ["AI/ML", "Python", "Infra"],
+      description: "캐나다 AI 스타트업, 뉴욕 원격 근무. React 기반 프론트엔드 개발 + 벡터 검색 알고리즘 설계·구현. 프로덕션 배포까지 풀사이클 참여.",
+      tags: ["React", "Vector Search", "Python", "Remote"],
     },
     {
       company: "Atom Tech Solutions",
@@ -35,21 +35,21 @@ export const ko = {
       company: "Samsung Electronics",
       role: "Data Management Intern",
       period: "2023.05 — 2023.08",
-      description: "IoT 센서 데이터 검증 + CV 기반 측정 정확도 15% 개선. R&D 부서.",
+      description: "IoT 센서 데이터 검증 파이프라인 구축. 컴퓨터 비전 적용 → 측정 정확도 15% 개선.",
       tags: ["IoT", "CV", "R&D"],
     },
     {
       company: "Amazon Web Services",
       role: "Full-Stack Intern",
-      period: "2022.10 — 2022.11",
-      description: "IoT 디바이스 인증 시스템 구축. 보안 40% 향상, 비용 25% 절감.",
+      period: "2022",
+      description: "IoT 디바이스 인증 시스템 설계·구축. 보안 40% 향상, 인프라 비용 25% 절감.",
       tags: ["AWS", "Serverless", "IoT"],
     },
     {
       company: "대한민국 공군",
       role: "분대장",
       period: "2018.09 — 2020.09",
-      description: "12명 분대 지휘, 500+ 미션 수행. 비효율적인 스케줄링 → VBA 자동화 직접 제작.",
+      description: "12명 분대 지휘. 운영 비효율 발견 → VBA 기반 스케줄링 자동화 직접 설계·구축.",
       tags: ["Leadership", "Automation"],
     },
   ],
@@ -57,7 +57,7 @@ export const ko = {
     {
       title: "Trillion",
       category: "Finance",
-      description: "KOSPI/KOSDAQ 전 종목 대상 퀀트 자동투자. 7개 전략 앙상블. CAGR 22.1%, Sharpe 1.008, Alpha +10.6%. 실전 운용 중 (첫날 +3.19%).",
+      description: "KOSPI/KOSDAQ 전 종목 대상 퀀트 자동투자. 7개 전략 앙상블. CAGR 22.1%, Sharpe 1.008, Alpha +10.6%. 실전 운용 중.",
       tags: ["Python", "Next.js", "FastAPI", "Quant"],
       live: "https://trillion-dashboard.vercel.app",
       github: "https://github.com/metahwi/trillion",
@@ -88,7 +88,7 @@ export const ko = {
     {
       title: "Swipe Survey",
       category: "Community",
-      description: "틴더식 스와이프 보상형 설문 플랫폼. 설문 등록자 ↔ 참여자 양면 마켓. 앱 내 설문 빌더, 포인트 경제 시스템, JWT 인증, 30+ API 엔드포인트. 앱스토어 출시 준비 중.",
+      description: "틴더식 스와이프 보상형 설문 플랫폼. 설문 등록자 ↔ 참여자 양면 마켓. 앱 내 설문 빌더, 포인트 경제, 소셜 로그인, 실시간 리포트. 앱스토어 출시 준비 중.",
       tags: ["React Native", "Expo", "Express.js", "Prisma"],
       github: "https://github.com/metahwi/swipe-survey-frontend",
       gradient: "from-purple-500/20 to-purple-300/20",
@@ -99,9 +99,9 @@ export const ko = {
   otherProjects: [
     { title: "이세계길드", category: "Education", description: "Azure 자격증 교육 PM. 인턴 7명 매니징. RPG 테마 학습 플랫폼." },
     { title: "교육 콘텐츠 자동화", category: "Utility", description: "n8n 파이프라인으로 콘텐츠 생성 자동화. 수작업 시간 80% 절감." },
-    { title: "교육과정 모집 마케팅", category: "Education", description: "5억원+ 교육사업 수강생 모집·선발. B2G (서울시, 경기콘텐츠진흥원) + B2C 자체 플랫폼." },
+    { title: "교육과정 모집 마케팅", category: "Education", description: "다중 정부지원 교육사업 수강생 모집·선발. B2G (서울시, 경기콘텐츠진흥원) + B2C 자체 플랫폼." },
     { title: "듀코젠 Notion 시스템", category: "Utility", description: "3개 사이트 Notion 시스템 풀 세팅. 사내 표준 워크플로우 정립." },
-    { title: "OpenClaw AI Assistant", category: "Utility", description: "개인 AI 비서. 텔레그램 연동, 크론 스케줄링, 서브에이전트 병렬 실행." },
+    { title: "AI 업무 자동화 시스템", category: "Utility", description: "메신저 연동 AI 비서. 스케줄링, 멀티 에이전트 오케스트레이션, 실시간 모니터링." },
   ],
   credentials: [
     {

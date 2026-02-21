@@ -1,12 +1,12 @@
 export const en = {
   categories: ["All", "Finance", "Community", "Biotech", "Education", "Utility"],
   name: "Jaehwi Lee",
-  tagline: "AI Convergence Planner · Manager @ Ducogen",
+  tagline: "AI Product Manager · Ducogen",
   subtitle: "Computer Science / Economics @ NYU",
   nav: { about: "About", experience: "Experience", projects: "Projects", credentials: "Credentials", contact: "Contact" },
   about: [
-    "Hi, I'm Jaehwi. Full disclosure — this portfolio got a lot of help from AI. The code, the copy, the deployment. But I think that's a skill in itself. Knowing how to leverage AI well is the new literacy.",
-    "CS + Econ from NYU. Samsung, AWS, startups. I'd rather ship a prototype than write a spec doc. Lately I walk around asking 'why is a human still doing this?'",
+    "Hi, I'm Jaehwi. Full disclosure — this portfolio got a lot of help from AI. But I think that's the point. Knowing how to maximize productivity with AI is the most important skill right now.",
+    "CS + Econ from NYU. Samsung, AWS, North American startups. I'd rather ship a prototype than write a spec doc. Lately I walk around asking 'why is a human still doing this?'",
     "One thing I'm definitely better at than AI: drawing. Check out my art blog if you're curious →",
   ],
   experience: [
@@ -14,15 +14,15 @@ export const en = {
       company: "Ducogen",
       role: "AI Convergence Planner",
       period: "2025.10 — Present",
-      description: "Led ₩500M+ AI education business (B2G/B2B/B2C). Seoul city + Gyeonggi Content Agency partnerships. 100+ trainees. Microsoft partner — cert platform development & ops. Built proprietary education platform. PM for 7 interns.",
+      description: "Multi-track government-funded AI education (B2G/B2B/B2C). Seoul city + Gyeonggi Content Agency partnerships. 100+ trainees. Microsoft partner — cert platform development & ops. Proprietary education platform. PM for 7 interns.",
       tags: ["AI", "PM", "No-code", "Marketing"],
     },
     {
       company: "Tempo Labs",
       role: "AI Engineer Intern",
       period: "2025.02 — 2025.05",
-      description: "AI infra architecture + ML pipeline development. Production-level system design.",
-      tags: ["AI/ML", "Python", "Infra"],
+      description: "Canadian AI startup, remote from NYC. React frontend development + vector search algorithm design & implementation. Full-cycle from dev to production deployment.",
+      tags: ["React", "Vector Search", "Python", "Remote"],
     },
     {
       company: "Atom Tech Solutions",
@@ -35,21 +35,21 @@ export const en = {
       company: "Samsung Electronics",
       role: "Data Management Intern",
       period: "2023.05 — 2023.08",
-      description: "IoT sensor data validation + CV-based measurement accuracy +15%. R&D division.",
+      description: "IoT sensor data validation pipeline. Applied computer vision → measurement accuracy +15%.",
       tags: ["IoT", "CV", "R&D"],
     },
     {
       company: "Amazon Web Services",
       role: "Full-Stack Intern",
-      period: "2022.10 — 2022.11",
-      description: "IoT device auth system. Security +40%, cost -25%.",
+      period: "2022",
+      description: "IoT device auth system design & build. Security +40%, infra cost -25%.",
       tags: ["AWS", "Serverless", "IoT"],
     },
     {
       company: "Republic of Korea Air Force",
       role: "Squad Leader",
       period: "2018.09 — 2020.09",
-      description: "Led 12-person squad, 500+ missions. Built VBA scheduling automation to fix broken ops.",
+      description: "Led 12-person squad. Identified ops inefficiency → designed & built VBA scheduling automation.",
       tags: ["Leadership", "Automation"],
     },
   ],
@@ -57,7 +57,7 @@ export const en = {
     {
       title: "Trillion",
       category: "Finance",
-      description: "Quant auto-investment across all KOSPI/KOSDAQ stocks. 7-strategy ensemble. CAGR 22.1%, Sharpe 1.008, Alpha +10.6%. Live trading (day 1: +3.19%).",
+      description: "Quant auto-investment across all KOSPI/KOSDAQ stocks. 7-strategy ensemble. CAGR 22.1%, Sharpe 1.008, Alpha +10.6%. Live trading.",
       tags: ["Python", "Next.js", "FastAPI", "Quant"],
       live: "https://trillion-dashboard.vercel.app",
       github: "https://github.com/metahwi/trillion",
@@ -88,7 +88,7 @@ export const en = {
     {
       title: "Swipe Survey",
       category: "Community",
-      description: "Tinder-style reward-based survey platform. Creator ↔ respondent two-sided market. In-app survey builder, point economy, JWT auth, 30+ API endpoints. App store launch in progress.",
+      description: "Tinder-style reward-based survey platform. Creator ↔ respondent two-sided market. In-app survey builder, point economy, social login, real-time reports. App store launch in progress.",
       tags: ["React Native", "Expo", "Express.js", "Prisma"],
       github: "https://github.com/metahwi/swipe-survey-frontend",
       gradient: "from-purple-500/20 to-purple-300/20",
@@ -99,9 +99,9 @@ export const en = {
   otherProjects: [
     { title: "Isekai Guild", category: "Education", description: "Azure cert training PM. 7-intern team. RPG-themed learning platform." },
     { title: "Education Content Automation", category: "Utility", description: "n8n content pipeline. Manual work reduced 80%." },
-    { title: "Curriculum Recruitment Marketing", category: "Education", description: "₩500M+ education business recruitment. B2G (Seoul, Gyeonggi Content Agency) + B2C platform." },
+    { title: "Curriculum Recruitment Marketing", category: "Education", description: "Multi-track gov-funded education recruitment. B2G (Seoul, Gyeonggi Content Agency) + B2C platform." },
     { title: "Ducogen Notion System", category: "Utility", description: "3-site Notion system. Company-wide standard workflows." },
-    { title: "OpenClaw AI Assistant", category: "Utility", description: "Personal AI assistant. Telegram, cron scheduling, parallel sub-agent execution." },
+    { title: "AI Workflow Automation", category: "Utility", description: "Messenger-integrated AI assistant. Scheduling, multi-agent orchestration, real-time monitoring." },
   ],
   credentials: [
     {
