@@ -1,5 +1,5 @@
 export const ko = {
-  categories: ["전체", "Finance", "Biotech", "Education"],
+  categories: ["전체", "Finance", "Community", "Biotech", "Education", "Utility"],
   name: "이재휘",
   tagline: "AI Convergence 기획자 · Manager @ Ducogen",
   subtitle: "Computer Science / Economics @ NYU",
@@ -76,7 +76,7 @@ export const ko = {
     },
     {
       title: "AVA",
-      category: "Finance",
+      category: "Utility",
       description: "소상공인한테 필요한 건 간단한 재무관리 앱이었어요. 토스 스타일 UI에 5번 탭으로 거래 입력, 월간 리포트에 AI 예산 가이드까지. Neon Postgres + Next.js로 만들었고, 로그인 없이 바로 써볼 수 있습니다.",
       tags: ["Next.js", "Prisma", "Neon", "PWA"],
       live: "https://ava-ashen.vercel.app",
@@ -84,12 +84,23 @@ export const ko = {
       image: "/images/ava-thumb.jpg",
       href: "/projects/ava",
     },
+    {
+      title: "Swipe Survey",
+      category: "Community",
+      description: "대학생 오픈채팅방에서 설문지 교환이 돈이 되고 있었어요. 그 교환을 플랫폼으로 만들었습니다. 틴더식 스와이프로 설문을 탐색하고, 참여하면 포인트를 받고, 직접 설문을 만들 수도 있어요. 양면 마켓의 핵심 루프를 3일 만에 PoC로 검증했습니다.",
+      tags: ["React Native", "Expo", "Express.js", "Prisma"],
+      github: "https://github.com/metahwi/swipe-survey-frontend",
+      gradient: "from-purple-500/20 to-purple-300/20",
+      image: "/images/swipe-survey-thumb.jpg",
+      href: "/projects/swipe-survey",
+    },
   ],
   otherProjects: [
     { title: "이세계길드", category: "Education", description: "Azure 자격증 교육 프로젝트 PM. 인턴 7명이랑 같이 만들었어요." },
-    { title: "교육 콘텐츠 자동화", category: "Education", description: "n8n으로 콘텐츠 생성 파이프라인을 구축했습니다. 반복은 사람이 할 일이 아니니까요." },
+    { title: "교육 콘텐츠 자동화", category: "Utility", description: "n8n으로 콘텐츠 생성 파이프라인을 구축했습니다. 반복은 사람이 할 일이 아니니까요." },
     { title: "교육과정 모집 마케팅", category: "Education", description: "104명 지원에 30명 선발. 경쟁률 3.48:1이었습니다." },
-    { title: "듀코젠 Notion 시스템", category: "Education", description: "3개 사이트의 Notion 시스템을 밑바닥부터 세팅했어요. 구조가 없으면 만들면 됩니다." },
+    { title: "듀코젠 Notion 시스템", category: "Utility", description: "3개 사이트의 Notion 시스템을 밑바닥부터 세팅했어요. 구조가 없으면 만들면 됩니다." },
+    { title: "OpenClaw AI Assistant", category: "Utility", description: "개인 AI 비서 시스템. 텔레그램 연동, 크론 작업, 서브에이전트 오케스트레이션까지." },
   ],
   credentials: [
     {

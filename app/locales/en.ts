@@ -1,5 +1,5 @@
 export const en = {
-  categories: ["All", "Finance", "Biotech", "Education"],
+  categories: ["All", "Finance", "Community", "Biotech", "Education", "Utility"],
   name: "Jaehwi Lee",
   tagline: "AI Convergence Planner · Manager @ Ducogen",
   subtitle: "Computer Science / Economics @ NYU",
@@ -76,7 +76,7 @@ export const en = {
     },
     {
       title: "AVA",
-      category: "Finance",
+      category: "Utility",
       description: "Mobile-first bookkeeping app for Korean solo business owners. Toss-inspired UI, 5-tap transaction entry, monthly reports with charts, and AI budget guidance. Built with Neon Postgres + Next.js. Try the live demo instantly — no login required.",
       tags: ["Next.js", "Prisma", "Neon", "PWA"],
       live: "https://ava-ashen.vercel.app",
@@ -84,12 +84,23 @@ export const en = {
       image: "/images/ava-thumb.jpg",
       href: "/projects/ava",
     },
+    {
+      title: "Swipe Survey",
+      category: "Community",
+      description: "Korean college students were trading survey responses for money in open chat rooms. I turned that exchange into a platform. Tinder-style swipe to discover surveys, earn points for participating, or create your own. Validated the two-sided market loop as a PoC in 3 days.",
+      tags: ["React Native", "Expo", "Express.js", "Prisma"],
+      github: "https://github.com/metahwi/swipe-survey-frontend",
+      gradient: "from-purple-500/20 to-purple-300/20",
+      image: "/images/swipe-survey-thumb.jpg",
+      href: "/projects/swipe-survey",
+    },
   ],
   otherProjects: [
     { title: "Isekai Guild", category: "Education", description: "Azure cert training project — PM'd a team of 7 interns." },
-    { title: "Education Content Automation", category: "Education", description: "Built a content generation pipeline with n8n." },
+    { title: "Education Content Automation", category: "Utility", description: "Built a content generation pipeline with n8n." },
     { title: "Curriculum Recruitment Marketing", category: "Education", description: "104 applicants → 30 selected. 3.48:1 ratio." },
-    { title: "Ducogen Notion System", category: "Education", description: "Built 3 site-wide Notion systems from scratch." },
+    { title: "Ducogen Notion System", category: "Utility", description: "Built 3 site-wide Notion systems from scratch." },
+    { title: "OpenClaw AI Assistant", category: "Utility", description: "Personal AI assistant system. Telegram integration, cron jobs, sub-agent orchestration." },
   ],
   credentials: [
     {
