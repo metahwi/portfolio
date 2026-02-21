@@ -14,7 +14,7 @@ export const en = {
       company: "Ducogen",
       role: "AI Convergence Planner",
       period: "2025.10 — Present",
-      description: "AI curriculum design → recruited 104, selected 30 (3.5:1). Built 3 Notion systems from zero. n8n automation for ops. PM for 7 interns.",
+      description: "Led ₩150M government-funded AI education program. Seoul Youth Employment Academy partnership. 30 trainees selected (3.5:1 ratio). Built 3 Notion systems, n8n ops automation. PM for 7 interns.",
       tags: ["AI", "PM", "No-code", "Marketing"],
     },
     {
@@ -88,7 +88,7 @@ export const en = {
     {
       title: "Swipe Survey",
       category: "Community",
-      description: "Tinder-style reward-based survey platform. Two-sided market core loop validated as PoC in 3 days. In-app survey builder, point economy, 30+ API endpoints.",
+      description: "Tinder-style reward-based survey platform. Creator ↔ respondent two-sided market. In-app survey builder, point economy, JWT auth, 30+ API endpoints. App store launch in progress.",
       tags: ["React Native", "Expo", "Express.js", "Prisma"],
       github: "https://github.com/metahwi/swipe-survey-frontend",
       gradient: "from-purple-500/20 to-purple-300/20",
@@ -99,7 +99,7 @@ export const en = {
   otherProjects: [
     { title: "Isekai Guild", category: "Education", description: "Azure cert training PM. 7-intern team. RPG-themed learning platform." },
     { title: "Education Content Automation", category: "Utility", description: "n8n content pipeline. Manual work reduced 80%." },
-    { title: "Curriculum Recruitment Marketing", category: "Education", description: "104 recruited → 30 selected. 3.48:1 ratio. Seoul city B2G partnership." },
+    { title: "Curriculum Recruitment Marketing", category: "Education", description: "₩150M gov-funded program recruitment. 104 applicants → 30 selected (3.5:1). Seoul B2G partnership." },
     { title: "Ducogen Notion System", category: "Utility", description: "3-site Notion system. Company-wide standard workflows." },
     { title: "OpenClaw AI Assistant", category: "Utility", description: "Personal AI assistant. Telegram, cron scheduling, parallel sub-agent execution." },
   ],

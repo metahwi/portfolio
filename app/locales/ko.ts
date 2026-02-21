@@ -14,7 +14,7 @@ export const ko = {
       company: "듀코젠",
       role: "AI Convergence 기획자",
       period: "2025.10 — 현재",
-      description: "AI 교육과정 설계 → 마케팅 104명 모집 / 30명 선발 (경쟁률 3.5:1). Notion 시스템 3개 사이트 구축. n8n 자동화로 반복 업무 제거. 인턴 7명 PM.",
+      description: "1.5억원 규모 국비지원 AI 교육사업 기획·운영. 서울시 청년취업사관학교 협약 체결. 수강생 30명 선발 (경쟁률 3.5:1). Notion 기반 사내 시스템 3개 구축, n8n 업무 자동화. 인턴 7명 PM.",
       tags: ["AI", "PM", "No-code", "Marketing"],
     },
     {
@@ -88,7 +88,7 @@ export const ko = {
     {
       title: "Swipe Survey",
       category: "Community",
-      description: "틴더식 스와이프 보상형 설문 플랫폼. 양면 마켓 핵심 루프 3일 만에 PoC 완성. 앱 내 설문 빌더, 포인트 경제, 30+ API 엔드포인트.",
+      description: "틴더식 스와이프 보상형 설문 플랫폼. 설문 등록자 ↔ 참여자 양면 마켓. 앱 내 설문 빌더, 포인트 경제 시스템, JWT 인증, 30+ API 엔드포인트. 앱스토어 출시 준비 중.",
       tags: ["React Native", "Expo", "Express.js", "Prisma"],
       github: "https://github.com/metahwi/swipe-survey-frontend",
       gradient: "from-purple-500/20 to-purple-300/20",
@@ -99,7 +99,7 @@ export const ko = {
   otherProjects: [
     { title: "이세계길드", category: "Education", description: "Azure 자격증 교육 PM. 인턴 7명 매니징. RPG 테마 학습 플랫폼." },
     { title: "교육 콘텐츠 자동화", category: "Utility", description: "n8n 파이프라인으로 콘텐츠 생성 자동화. 수작업 시간 80% 절감." },
-    { title: "교육과정 모집 마케팅", category: "Education", description: "104명 모집 → 30명 선발. 경쟁률 3.48:1. 서울시 B2G 협약." },
+    { title: "교육과정 모집 마케팅", category: "Education", description: "1.5억원 국비지원 사업 모집. 104명 지원 → 30명 선발 (3.5:1). 서울시 B2G 협약." },
     { title: "듀코젠 Notion 시스템", category: "Utility", description: "3개 사이트 Notion 시스템 풀 세팅. 사내 표준 워크플로우 정립." },
     { title: "OpenClaw AI Assistant", category: "Utility", description: "개인 AI 비서. 텔레그램 연동, 크론 스케줄링, 서브에이전트 병렬 실행." },
   ],
