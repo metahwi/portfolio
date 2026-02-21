@@ -58,7 +58,7 @@ export const ko = {
       category: "Finance",
       description: "주식 투자를 자동화하고 싶었습니다. KOSPI/KOSDAQ 전 종목에 퀀트 전략 7개를 돌리고, 앙상블로 최적 포트폴리오를 만드는 시스템이에요. 백테스트 기준 CAGR 22.1%, Sharpe 1.008. Claude랑 둘이서 만들었습니다.",
       tags: ["Python", "Next.js", "FastAPI", "Quant"],
-      live: "https://trillion-jade.vercel.app",
+      live: "https://trillion-dashboard.vercel.app",
       github: "https://github.com/metahwi/trillion",
       gradient: "from-teal-500/20 to-teal-300/20",
       image: "/images/trillion-thumb.jpg",

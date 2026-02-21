@@ -81,7 +81,7 @@ export default function TrillionPage() {
             ))}
           </div>
           <div className="flex gap-4">
-            <a href="https://trillion-jade.vercel.app" target="_blank" rel="noopener noreferrer" className="text-sm text-white/60 hover:text-teal-300 transition-colors inline-flex items-center gap-1">
+            <a href="https://trillion-dashboard.vercel.app" target="_blank" rel="noopener noreferrer" className="text-sm text-white/60 hover:text-teal-300 transition-colors inline-flex items-center gap-1">
               <ExternalLink size={14} /> Live Demo
             </a>
             <a href="https://github.com/metahwi/trillion" target="_blank" rel="noopener noreferrer" className="text-sm text-white/60 hover:text-teal-300 transition-colors inline-flex items-center gap-1">

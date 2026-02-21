@@ -58,7 +58,7 @@ export const en = {
       category: "Finance",
       description: "Why do retail investors always lose? Started there. Built a quant auto-investment system covering all KOSPI/KOSDAQ stocks with 7 ensemble strategies. CAGR 22.1%, Sharpe 1.008. Solo-built with OpenClaw + Claude.",
       tags: ["Python", "Next.js", "FastAPI", "Quant"],
-      live: "https://trillion-jade.vercel.app",
+      live: "https://trillion-dashboard.vercel.app",
       github: "https://github.com/metahwi/trillion",
       gradient: "from-teal-500/20 to-teal-300/20",
       image: "/images/trillion-thumb.jpg",
