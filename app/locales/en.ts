@@ -14,7 +14,7 @@ export const en = {
       company: "Ducogen",
       role: "AI Convergence Planner",
       period: "2025.10 — Present",
-      description: "Led ₩150M government-funded AI education program. Seoul Youth Employment Academy partnership. 30 trainees selected (3.5:1 ratio). Built 3 Notion systems, n8n ops automation. PM for 7 interns.",
+      description: "Led ₩500M+ AI education business (B2G/B2B/B2C). Seoul city + Gyeonggi Content Agency partnerships. 100+ trainees. Microsoft partner — cert platform development & ops. Built proprietary education platform. PM for 7 interns.",
       tags: ["AI", "PM", "No-code", "Marketing"],
     },
     {
@@ -99,7 +99,7 @@ export const en = {
   otherProjects: [
     { title: "Isekai Guild", category: "Education", description: "Azure cert training PM. 7-intern team. RPG-themed learning platform." },
     { title: "Education Content Automation", category: "Utility", description: "n8n content pipeline. Manual work reduced 80%." },
-    { title: "Curriculum Recruitment Marketing", category: "Education", description: "₩150M gov-funded program recruitment. 104 applicants → 30 selected (3.5:1). Seoul B2G partnership." },
+    { title: "Curriculum Recruitment Marketing", category: "Education", description: "₩500M+ education business recruitment. B2G (Seoul, Gyeonggi Content Agency) + B2C platform." },
     { title: "Ducogen Notion System", category: "Utility", description: "3-site Notion system. Company-wide standard workflows." },
     { title: "OpenClaw AI Assistant", category: "Utility", description: "Personal AI assistant. Telegram, cron scheduling, parallel sub-agent execution." },
   ],

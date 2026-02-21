@@ -14,7 +14,7 @@ export const ko = {
       company: "듀코젠",
       role: "AI Convergence 기획자",
       period: "2025.10 — 현재",
-      description: "1.5억원 규모 국비지원 AI 교육사업 기획·운영. 서울시 청년취업사관학교 협약 체결. 수강생 30명 선발 (경쟁률 3.5:1). Notion 기반 사내 시스템 3개 구축, n8n 업무 자동화. 인턴 7명 PM.",
+      description: "5억원+ AI 교육사업 기획·운영 (B2G/B2B/B2C). 서울시 청년취업사관학교, 경기콘텐츠진흥원 협약. 교육생 100명+. Microsoft 파트너사 자격증 플랫폼 사업 개발·운영. 자체 교육 서비스 플랫폼 구축. 인턴 7명 PM.",
       tags: ["AI", "PM", "No-code", "Marketing"],
     },
     {
@@ -99,7 +99,7 @@ export const ko = {
   otherProjects: [
     { title: "이세계길드", category: "Education", description: "Azure 자격증 교육 PM. 인턴 7명 매니징. RPG 테마 학습 플랫폼." },
     { title: "교육 콘텐츠 자동화", category: "Utility", description: "n8n 파이프라인으로 콘텐츠 생성 자동화. 수작업 시간 80% 절감." },
-    { title: "교육과정 모집 마케팅", category: "Education", description: "1.5억원 국비지원 사업 모집. 104명 지원 → 30명 선발 (3.5:1). 서울시 B2G 협약." },
+    { title: "교육과정 모집 마케팅", category: "Education", description: "5억원+ 교육사업 수강생 모집·선발. B2G (서울시, 경기콘텐츠진흥원) + B2C 자체 플랫폼." },
     { title: "듀코젠 Notion 시스템", category: "Utility", description: "3개 사이트 Notion 시스템 풀 세팅. 사내 표준 워크플로우 정립." },
     { title: "OpenClaw AI Assistant", category: "Utility", description: "개인 AI 비서. 텔레그램 연동, 크론 스케줄링, 서브에이전트 병렬 실행." },
   ],
